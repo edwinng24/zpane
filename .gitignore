@@ -5,3 +5,5 @@
 *~
 .htaccess
 logs
+\#*
+application.ini
