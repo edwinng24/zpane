@@ -1,3 +1,7 @@
+<h1>Code Demo</h1>
+
+Running example of the project code can be found at http://www.zpane.com/loan
+
 This is a sample project that is used to demonstrate the following concepts:
 
 1. Use of Zend Framework
