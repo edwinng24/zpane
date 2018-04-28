@@ -22,7 +22,7 @@ This is a sample project that is used to demonstrate the following concepts:
 4. Sample HTML form which uses the Rest API from (2) to help improve user experience. The integration is done via Ajax call with jQuery. jQuery 
    validation is also used to warn user of missing inputs.
 
-**Running the Demo
+**Running the Demo**
 
 To see the Rest API in action, check out the following URL:
 

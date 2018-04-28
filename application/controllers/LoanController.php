@@ -7,4 +7,11 @@ class LoanController extends Zend_Controller_Action
     {
 
     }
+
+    public function submitAction()
+    {
+
+    }
+
+
 }
