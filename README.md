@@ -1,4 +1,4 @@
-<h1>Code Demo
+<h1>Code Demo</h1>
 
 This is a sample project that is used to demonstrate the following concepts:
 
