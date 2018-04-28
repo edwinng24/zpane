@@ -1,6 +1,4 @@
-<h1>Code Demo</h1>
-
-Running example of the project code can be found at http://www.zpane.com/loan
+<h1>Code Demo
 
 This is a sample project that is used to demonstrate the following concepts:
 
@@ -23,3 +21,17 @@ This is a sample project that is used to demonstrate the following concepts:
 
 4. Sample HTML form which uses the Rest API from (2) to help improve user experience. The integration is done via Ajax call with jQuery. jQuery 
    validation is also used to warn user of missing inputs.
+
+**Running the Demo
+
+To see the Rest API in action, check out the following URL:
+
+http://www.zpane.com/zip/<zip code> , eg: http://www.zpane.com/zip/94086
+http://www.zpane.com/aba/<bank routing number> eg: http://www.zpane.com/aba/121042882
+
+To see an example how the API can be used in client code, check out http://www.zpane.com/loan. When user enters the zip code, 
+the city and state information will be automatically populated assuming the zip code is correct. Similarly, if the user enters
+a valid bank routing number, the bank name will be automatically populated.
+
+
+
